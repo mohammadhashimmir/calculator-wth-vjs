@@ -133,7 +133,7 @@ button:hover{
     #main{
         width: 80%!important;
         margin-top: -150px;
-        margin-left: 65px!important;
+        margin-left: 10%!important;
     }
 }
 @media only screen and (min-width:769px) and (max-width:1200px){
